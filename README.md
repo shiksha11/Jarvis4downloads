@@ -14,7 +14,7 @@ File List:
 
 2.transfer_files.py
 
-3.ui_updated.py
+3.ui_further_updated.py
 
 
 How to run file:
@@ -30,7 +30,7 @@ Once you have cloned the directory to your local machine in the default director
 
 4.To install python-docx run the command : pip install pyhton-docx.
 
-5.Run ui_updated.py.
+5.Run ui_further_updated.py.
 
 6.Input can be given in two ways.Either by tying it in the entry box or as voice input.
 
