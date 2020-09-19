@@ -61,8 +61,8 @@ Group of extensions which will be placed in a particular folder is listed down i
 
 After transfering files to the respective folders,install python-docx and pyaudio.
 
-If the name of the entered file contains extensions then as per the extension by using os.walk we try finding the path in the required folder.
+If the name of the entered file contains extensions then as per the extension by using os.walk we try finding the path.
 
-If the entered file name does not contain extension then the user is required to select the type of type he/she is searching for.Further search is done in the folder based upon the choice of the user. 
+If the entered file name does not contain extension then the user is required to select the type of file he/she is searching for.Further search is done in the folder based upon type of file selected by user. 
 
 For body search frequency of the word given as input is calculated in different files and file with highest frequency is returned as output. 
